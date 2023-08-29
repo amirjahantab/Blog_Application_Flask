@@ -1,4 +1,3 @@
-فایل requirements.txt:
 Flask==2.3.4
 Flask-Bcrypt==1.0.1
 Flask-Login==0.6.2
